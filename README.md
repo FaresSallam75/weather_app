@@ -1,4 +1,4 @@
-# weathermap
+# weather app
 
 A new Flutter project.
 
